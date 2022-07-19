@@ -53,13 +53,13 @@ p {
 font-family: 'Roboto Mono', monospace;
 font-weight: 400;
 color: #00BFA6 ;
-opacity: 0.8;
 font-size: 18px;
 transition: opacity 400ms;
 }
 
 p:hover {
   opacity: 1;
+  color: #00E0C6;
 }
 
 ul {
@@ -102,3 +102,4 @@ footer:hover {
 footer a {
   color: #00BFA6;
 }
+
