@@ -12,7 +12,7 @@ a {
 }
 
 body {
-  background: black;
+  background: #016170;
   font-family: 'Roboto', sans-serif;
   
 }
@@ -83,7 +83,7 @@ ul li a {
 }
 
 ul li a:hover {
-  background: #0458a7;
+  background: #016170;
 }
 
 footer {
@@ -101,6 +101,17 @@ footer:hover {
 footer a {
   color: #00BFA6;
 }
+
+.social-grid {
+  width: 20%;
+  display: flex;
+  margin: auto;
+  gap: 12px;
+  opacity: 0.8;
+  margin-top: 10px;
+  
+}
+
 
 @keyframes rotateWords {
   5% {
