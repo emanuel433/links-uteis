@@ -2,7 +2,7 @@
 
 ![previel](./.github/readme.png)
 
-Projeto construído apartir da Maratona explorer na plataforma Rocketseat.
+Projeto construído apartir da Maratona explorer 2.0 na plataforma Rocketseat.
 
 [Acesse aqui](https://emanuel433.github.io/links-uteis/)
 
